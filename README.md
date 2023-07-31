@@ -1,3 +1,3 @@
 # Landing-page(oasis infobyte)
--using HTML
--USING CSS
+- USING HTML
+- USING CSS
